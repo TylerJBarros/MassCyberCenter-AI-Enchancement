@@ -1,10 +1,9 @@
 # MassCyberCenter-AI-Enchancement
-<h1>JWipe - Disk Sanitization</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+I researched the advancements of AI-driven malware, focusing on its potential to evade traditional security measures. Collaborating with my mentor, I developed insights into how this technology reshapes cybersecurity threats and prepared a presentation to share these findings. Using visuals and clear explanations, I communicated complex ideas to a diverse audience, strengthening both my technical understanding and presentation skills.
 <br />
 
 
