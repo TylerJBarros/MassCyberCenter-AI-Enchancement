@@ -1,26 +1,17 @@
 # MassCyberCenter-AI-Enchancement
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 I researched the advancements of AI-driven malware, focusing on its potential to evade traditional security measures. Collaborating with my mentor, I developed insights into how this technology reshapes cybersecurity threats and prepared a presentation to share these findings. Using visuals and clear explanations, I communicated complex ideas to a diverse audience, strengthening both my technical understanding and presentation skills.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Presentation Slideshow:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/yRIxgGd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
