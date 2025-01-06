@@ -22,19 +22,25 @@ Select the disk:  <br/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="Keylogger_ AI Enchancement 4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="Keylogger_ AI Enchancement 5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="Keylogger_ AI Enchancement 6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
+<img src="Keylogger_ AI Enchancement 6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
 <img src="Keylogger_ AI Enchancement 7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 </p>
 
 <!--
