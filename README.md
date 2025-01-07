@@ -8,9 +8,7 @@ I researched the advancements of AI-driven malware, focusing on its potential to
 <h2>Presentation Verbal Script:</h2>
 <br />
 <img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-[MassCyberCenter AI Enchancement Presentation](https://github.com/TylerJBarros/MassCyberCenter-AI-Enchancement/tree/main)
-<br />
-<br />
+[Presentation Script PDF Version](Keylogger_ AI Enchancement 1.png)
 <h2>Presentation Slideshow:</h2>
 
 <p align="center">
