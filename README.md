@@ -10,42 +10,42 @@ I researched the advancements of AI-driven malware, focusing on its potential to
 <p align="center">
 Keylogger: AI Enchancement Title Slide: <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 1.png" height="80%" width="80%" alt="Keylogger: AI Enchancement Title Slide"/>
 <br />
 <br />
 Keylogger Explanation:  <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 2.png" height="80%" width="80%" alt="Keylogger Explanation"/>
 <br />
 <br />
 Generative AI Explanation:  <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 3.png" height="80%" width="80%" alt="Generative AI Explanation"/>
 <br />
 <br />
-How AI can Enchance a Keylogger:  <br/>
+How AI Can Enchance a Keylogger:  <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 4.png" height="80%" width="80%" alt="How AI Can Enhance a Keylogger"/>
 <br />
 <br />
-Explanation o WormGPT and BlackMamba:  <br/>
+Explanation of WormGPT and BlackMamba:  <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 5.png" height="80%" width="80%" alt="Explanation of WormGPT and BlackMamba"/>
 <br />
 <br />
 The Future Implications of AI:  <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement 6.png" height="80%" width="80%" alt="The Future Impications of AI"/>
  <br />
 <br />
 Works Cited Page:  <br/>
  <br />
-<img src="Keylogger_ AI Enchancement 7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement.png" height="80%" width="80%" alt="Works Cited Page"/>
 <br />
 <br />
  <h2>Presentation Verbal Script:</h2>
 <br />
-<img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 </p>
