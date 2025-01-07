@@ -5,39 +5,46 @@
 I researched the advancements of AI-driven malware, focusing on its potential to evade traditional security measures. Collaborating with my mentor, I developed insights into how this technology reshapes cybersecurity threats and prepared a presentation to share these findings. Using visuals and clear explanations, I communicated complex ideas to a diverse audience, strengthening both my technical understanding and presentation skills.
 <br />
 
-<h2>Presentation Script:</h2>
+<h2>Presentation Verbal Script:</h2>
 <br />
 <img src="Keylogger_ AI Enchancement 1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
 <h2>Presentation Slideshow:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Keylogger: AI Enchancement Title Slide: <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Keylogger Explanation:  <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Generative AI Explanation:  <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+How AI can Enchance a Keylogger:  <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Explanation o WormGPT and BlackMamba:  <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+The Future Implications of AI:  <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Works Cited Page:  <br/>
+ <br />
 <img src="Keylogger_ AI Enchancement 7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
