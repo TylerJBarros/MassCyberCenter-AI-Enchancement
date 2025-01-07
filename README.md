@@ -46,7 +46,7 @@ Works Cited Page:  <br/>
  <h2>Presentation Verbal Script:</h2>
 <br />
   <div align="center">
-  <img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="80%" width="80%" alt="Presentation Verbal Script">
+  <img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="70%" width="70%" alt="Presentation Verbal Script">
 </div>
 
 
