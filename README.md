@@ -7,7 +7,7 @@ I researched the advancements of AI-driven malware, focusing on its potential to
 
 <h2>Presentation Verbal Script:</h2>
 <br />
-<img src="Keylogger_ AI Enchancement Presentation Script (Essay Format).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h2>Presentation Slideshow:</h2>
