@@ -46,6 +46,10 @@ Works Cited Page:  <br/>
  <h2>Presentation Verbal Script:</h2>
 <br />
 <img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <div align="center">
+  <img src="Keylogger_ AI Enchancement Presentation Script (Essay Format) (PNG).png">
+</div>
 </p>
 
 </p>
