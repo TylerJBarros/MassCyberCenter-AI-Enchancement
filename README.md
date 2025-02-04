@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I was selected to be a part of the MassCyberCenter Mentorship Program starting in October of 2023 and ending in December. I researched the advancements of AI-driven malware, focusing on its potential to evade traditional security measures. Collaborating with my mentor, I developed insights into how this technology reshapes cybersecurity threats and prepared a presentation to share these findings. Using visuals and clear explanations, I communicated complex ideas to a diverse audience, strengthening both my technical understanding and presentation skills.
+I was selected to be a part of the MassCyberCenter Mentorship Program starting in October of 2023 and ending in December of 2023. I researched the advancements of AI-driven malware, focusing on its potential to evade traditional security measures. Collaborating with my mentor, I developed insights into how this technology reshapes cybersecurity threats and prepared a presentation to share these findings. Using visuals and clear explanations, I communicated complex ideas to a diverse audience, strengthening both my technical understanding and presentation skills.
 <br />
 
 <h2>Presentation Slideshow:</h2>
