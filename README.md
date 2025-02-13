@@ -1,4 +1,4 @@
-# MassCyberCenter-AI-Enchancement
+# AI-Enchancement-Presentation
 
 
 <h2>Description</h2>
